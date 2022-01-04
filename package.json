@@ -1,0 +1,15 @@
+{
+  "name": "spin-the-wheel",
+  "version": "1.0.0",
+  "description": "A wheel of Fortune",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benedict Kpaduwa",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1",
+    "pixi.js": "^6.2.1"
+  }
+}
